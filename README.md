@@ -178,4 +178,4 @@ PORT=5000
 
 ## 👤 Author
 
-Built as a MERN stack mini project for 3rd year CS undergraduates.
+Aditya Dhotre
